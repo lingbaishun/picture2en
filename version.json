@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "changelog": "接入云端语音合成，彻底解决无法朗读问题（含本地缓存）",
+  "version": "1.4.1",
+  "changelog": "修复颜色误判；旧版APK将提示升级以启用云端功能",
   "url": "https://lingbaishun.github.io/picture2en/update.zip",
   "size": "约13MB"
 }
