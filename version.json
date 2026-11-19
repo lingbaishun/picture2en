@@ -1,6 +1,6 @@
 {
-  "version": "1.4.1",
-  "changelog": "修复颜色误判；旧版APK将提示升级以启用云端功能",
+  "version": "1.5.0",
+  "changelog": "贴纸改用AI轮廓抠图，消除碎片与破损；顶部直接展示贴纸",
   "url": "https://lingbaishun.github.io/picture2en/update.zip",
   "size": "约13MB"
 }
