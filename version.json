@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "changelog": "首个云更新版本：支持识别界面与词库在线更新",
+  "version": "1.2.0",
+  "changelog": "新增拍照贴纸生成、英文例句、优化取景框所见即所得",
   "url": "https://lingbaishun.github.io/picture2en/update.zip",
   "size": "约13MB"
 }
