@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "changelog": "新增拍照贴纸生成、英文例句、优化取景框所见即所得",
+  "version": "1.3.0",
+  "changelog": "接入云端AI：识别更准、贴纸抠图精准、修复语音播放",
   "url": "https://lingbaishun.github.io/picture2en/update.zip",
   "size": "约13MB"
 }
