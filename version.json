@@ -1,6 +1,6 @@
 {
-  "version": "1.7.2",
-  "changelog": "加载动画改用跑步GIF",
+  "version": "1.7.3",
+  "changelog": "贴纸生成效果优化；收藏夹改存贴纸",
   "url": "https://lingbaishun.github.io/picture2en/update.zip",
   "size": "约17MB"
 }
