@@ -1,6 +1,6 @@
 {
-  "version": "1.7.0",
-  "changelog": "新增摄像头缩放（双指/滑块）；识别等待改为动漫角色加载动画",
+  "version": "1.7.1",
+  "changelog": "修复摄像头缩放：改为数码变焦，所有设备可用",
   "url": "https://lingbaishun.github.io/picture2en/update.zip",
   "size": "约13MB"
 }
