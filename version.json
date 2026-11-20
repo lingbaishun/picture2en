@@ -1,6 +1,6 @@
 {
-  "version": "1.6.0",
-  "changelog": "架构重构：所有功能改为可热更新，以后不用重装APK",
+  "version": "1.7.0",
+  "changelog": "新增摄像头缩放（双指/滑块）；识别等待改为动漫角色加载动画",
   "url": "https://lingbaishun.github.io/picture2en/update.zip",
   "size": "约13MB"
 }
