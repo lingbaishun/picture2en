@@ -1,6 +1,6 @@
 {
-  "version": "1.5.1",
-  "changelog": "更换应用图标为 Pic2English 形象",
+  "version": "1.6.0",
+  "changelog": "架构重构：所有功能改为可热更新，以后不用重装APK",
   "url": "https://lingbaishun.github.io/picture2en/update.zip",
   "size": "约13MB"
 }
